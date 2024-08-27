@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicius-chir&label=Profile%20views&color=0e75b6&style=flat" alt="vinicius-chir" /> </p>
 
-- Por agora, estou focando em aprender linguagens de programação como **C e Python**, porém tenho interesse em aprender diversas linguagens.
+- Por agora, estou focando em aprender linguagens de programação como **C e Python**, porém tenho interesse em aprender diversas linguagens. Pretendo aprender muita coisa ainda, como novas linguagens de programação, e atualmente estou também estudando ciência de dados e machine learning.
 
-- Pretendo aprender muita coisa ainda, como novas linguagens de programação, e uma que anda me despertando interesse é **Lua 🌙**.
 
-- É isso :P
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
