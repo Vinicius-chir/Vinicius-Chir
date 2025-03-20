@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de programação</h3>
 
 ### Introdução
-- Por agora, estou focando em aprender linguagens de programação como **C e Python**, porém tenho interesse em aprender diversas linguagens. Pretendo aprender muita coisa ainda, como novas linguagens de programação, e atualmente estou também estudando ciência de dados e machine learning.
+- Eu sou um estudante de Sistemas de Informação na USP com forte interesse em dados, Inteligência Artificial (IA), Desenvolvimento Web e Banco de Dados. Possuo conhecimentos em ferramentas e linguagens voltadas para o tratamento e análise de dados, além de estar em constante aprendizado sobre técnicas de IA. Busco oportunidades para aplicar e expandir meus conhecimentos, contribuir com soluções tecnológicas inovadoras e evoluir no campo da tecnologia da informação.
 
 ### GitHub Stats:
 <div align="center">
