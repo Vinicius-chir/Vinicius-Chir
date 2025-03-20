@@ -1,17 +1,24 @@
 <h1 align="center">Oh Hey!</h1>
 <h3 align="center">Estudante de programação</h3>
 
+### Introdução
 - Por agora, estou focando em aprender linguagens de programação como **C e Python**, porém tenho interesse em aprender diversas linguagens. Pretendo aprender muita coisa ainda, como novas linguagens de programação, e atualmente estou também estudando ciência de dados e machine learning.
 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vinicius_chir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinicius_chir" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-chir&show_icons=true&locale=en&layout=compact" alt="vinicius-chir" /></p>
+### GitHub Stats:
+<div align="center">
+  <a href="https://github.com/Vinicius-Chir">
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvarezGui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Chir&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+  <div align='center' style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align='center' alt="Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"> 
+  <img align='center' alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"> 
+  <img align='center' alt='Java' height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align='center' alt='MySQL' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
