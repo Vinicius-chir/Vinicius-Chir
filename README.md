@@ -1,8 +1,6 @@
 <h1 align="center">Oh Hey!</h1>
 <h3 align="center">Estudante de programação</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicius-chir&label=Profile%20views&color=0e75b6&style=flat" alt="vinicius-chir" /> </p>
-
 - Por agora, estou focando em aprender linguagens de programação como **C e Python**, porém tenho interesse em aprender diversas linguagens. Pretendo aprender muita coisa ainda, como novas linguagens de programação, e atualmente estou também estudando ciência de dados e machine learning.
 
 
